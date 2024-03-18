@@ -1,0 +1,11 @@
+2024/03/18 23:43:48 Router started...
+2024/03/18 23:43:52 handling actor create at /actors/
+2024/03/18 23:43:52 duplicate key value violates unique constraint
+2024/03/18 23:44:55 Router started...
+2024/03/18 23:45:00 handling get all actors at /actors/
+2024/03/18 23:45:00 method: GET
+2024/03/18 23:45:25 handling get all actors at /actors/
+2024/03/18 23:45:25 method: GET
+2024/03/18 23:45:38 handling get all films at /films/
+2024/03/18 23:58:45 Stopped serving new connections.
+2024/03/18 23:58:45 Router stopped.
